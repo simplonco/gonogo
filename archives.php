@@ -27,4 +27,4 @@ catch (Exception $e) {
             <?php  include("function-archive.php"); ?>
 
 </table>
-
+<?php include ("footer.php"); ?>

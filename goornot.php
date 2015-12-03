@@ -60,7 +60,7 @@ else echo "Vous devez remplir tous les champs !";
 
 
 
-
+include ("footer.php");
 
 
 
